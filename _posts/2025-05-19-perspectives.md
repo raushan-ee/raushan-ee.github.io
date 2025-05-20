@@ -1,5 +1,5 @@
 ---
-title: Perspective
+title: When You Hit Rock Bottom....
 description: A reverse poem about finding hope in despair - read from top to bottom and bottom to top for contrasting perspectives.
 author: Raushan
 date: 2025-05-19
@@ -14,62 +14,42 @@ image:
   alt: A path dividing into two directions, symbolizing different perspectives.
 ---
 
-## Two Sides of Resilience
+## The Only Way is UP
 {: .text-center}
 
-<div class="poem" markdown="1">
-You have won!
-
-This is the last time,
-
+<div class="poem" markdown="1" align="center">
+You have won!<br>
+This is the last time,<br>
 I will rebuild my life again.
-
 
 There is no other option.
 
-The more I will try
-
-The more I will lose 
-
-The more I believe in love
-
-The more I have been let down
+The more I will try<br>
+The more I will lose<br>
+The more I believe in love<br>
+The more I have been let down<br>
 
 
-The situation can't improve!
-
-I don't think
-
+The situation can't improve!<br>
+I don't think<br>
 I learn from my mistakes.
 
 
-My destiny
-
-Will determine
-
+My destiny<br>
+Will determine<br>
 My actions.
 
-
-My resolve to fight back
-
-Has lost to
-
+My resolve to fight back<br>
+Has lost to<br>
 My agony and suffering.
 
-
-The truth won't come out.
-
-Do not believe that
-
+The truth won't come out.<br>
+Do not believe that<br>
 I will find redemption.
 
-
-Forget my existence.
-
-The world will not
-
+Forget my existence.<br>
+The world will not<br>
 Remember by name.
-
 
 But, not any more!
 </div>

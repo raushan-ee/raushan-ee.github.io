@@ -16,17 +16,19 @@ timezone:
 
 title: Raushan # the main title
 
-tagline: A Stumbling Poet # it will display as the subtitle
+tagline: The Stumbling Poet # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  This is the blog for Raushan - the stumbling poet, presenting a collection of his poems written over the past 17 years. Raushan writes in English and Hindi, with attempts made in Urdu here and there. Raushan's poems are a collection of personal experiences, observations, perspectives, and often - just a diary that preserves his feelings at the moment of writing something. 
+  
+  These poems are meant to reflect Raushan's thoughts and emotions. The blog is a space for Raushan to share these feelings with the world, and to connect with others who may find resonance in his words.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: raushan-ee # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,12 +36,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Raushan # change to your full name
   email: example@domain.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - Raushan (DBA) # The first element serves as the copyright owner's link
+    - https://github.com/raushan-ee # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -102,7 +103,7 @@ avatar: /assets/img/personal/raushan.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: # sxtring, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -119,7 +120,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: raushan-ee/raushan-ee.github.io
     repo_id:
     category:
     category_id:

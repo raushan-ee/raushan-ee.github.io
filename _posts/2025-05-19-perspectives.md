@@ -19,35 +19,57 @@ image:
 
 <div class="poem" markdown="1">
 You have won!
+
 This is the last time,
+
 I will rebuild my life again.
+
 
 There is no other option.
 
 The more I will try
+
 The more I will lose 
+
 The more I believe in love
+
 The more I have been let down
 
+
 The situation can't improve!
+
 I don't think
+
 I learn from my mistakes.
 
+
 My destiny
+
 Will determine
+
 My actions.
 
+
 My resolve to fight back
+
 Has lost to
+
 My agony and suffering.
 
+
 The truth won't come out.
+
 Do not believe that
+
 I will find redemption.
 
+
 Forget my existence.
+
 The world will not
+
 Remember by name.
+
 
 But, not any more!
 </div>

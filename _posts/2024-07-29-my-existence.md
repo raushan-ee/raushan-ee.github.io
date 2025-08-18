@@ -8,6 +8,10 @@ tags: [identity, memory, authenticity, existence, reflection]
 pin: false
 math: false
 mermaid: false
+image:
+  path: /assets/img/blog/2024-07-29-my-existence.png
+  lqip: data:image/webp;base64,UklGRuICAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSAwAAAARBxAREYiImP8HEfeIiJhqAAAAVlA4IFoAAADwAQCdASoQAAgAAgA0JaQAA3AA/vWT
+  alt: Someone carefully peeling back layers of old wallpaper in dim light, revealing different patterns and a child's drawing underneath, representing the excavation of authentic self.
 ---
 
 ## My Existence

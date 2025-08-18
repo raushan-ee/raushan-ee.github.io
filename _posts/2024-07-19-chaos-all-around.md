@@ -8,6 +8,10 @@ tags: [anxiety, mental health, chaos, vulnerability, healing]
 pin: false
 math: false
 mermaid: false
+image:
+  path: /assets/img/blog/2024-07-19-chaos-all-around.png
+  lqip: data:image/webp;base64,UklGRuICAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSAwAAAARBxAREYiImP8HEfeIiJhqAAAAVlA4IFoAAADwAQCdASoQAAgAAgA0JaQAA3AA/vWT
+  alt: A person trapped in a glass box filling with swirling sand, representing the claustrophobic intensity of panic with glimpses of relief through small cracks.
 ---
 
 ## Chaos All Around

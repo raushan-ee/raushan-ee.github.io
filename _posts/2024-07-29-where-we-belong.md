@@ -8,6 +8,10 @@ tags: [home, belonging, journey, friendship, hope]
 pin: false
 math: false
 mermaid: false
+image:
+  path: /assets/img/blog/2024-07-29-where-we-belong.png
+  lqip: data:image/webp;base64,UklGRuICAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSAwAAAARBxAREYiImP8HEfeIiJhqAAAAVlA4IFoAAADwAQCdASoQAAgAAgA0JaQAA3AA/vWT
+  alt: A vintage suitcase with a tree growing from it on a misty train platform, symbolizing the search for home and belonging through life's journeys.
 ---
 
 ## Where We Belong

@@ -8,6 +8,10 @@ tags: [perspective, regret, future, love, reflection]
 pin: false
 math: false
 mermaid: false
+image:
+  path: /assets/img/blog/2024-07-16-what-if.png
+  lqip: data:image/webp;base64,UklGRuICAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSAwAAAARBxAREYiImP8HEfeIiJhqAAAAVlA4IFoAAADwAQCdASoQAAgAAgA0JaQAA3AA/vWT
+  alt: A figure walking a spiral path from circular thoughts toward an ascending future, symbolizing the transformation from regret to possibility.
 ---
 
 ## What If

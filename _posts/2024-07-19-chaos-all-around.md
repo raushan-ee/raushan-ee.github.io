@@ -17,15 +17,15 @@ image:
 {: .text-center}
 
 <div class="poem" markdown="1" align="center">
-Round and round, my mind goes around,<br>
+Round and round, my thoughts go around,<br>
 I seem to feel nothing, I can hear no sound.<br>
-In search of the peace, with the Chaos I found,<br>
-My breath is in shackles, the mind is astound.
+In search of peace, the Chaos I've found,<br>
+My breath is in shackles, my mind is astound.
 
 They say - get high on pills, embrace the confidence it instills,<br>
 Silently stay alive, and watch - the silence kills.<br>
 Ride the roller coaster, experience all its thrills,<br>
-Yell at the highest highs, coz rest has no frills!
+Yell at the highs, coz rest has no frills!
 
 Chaos is a process, Not something you can profess,<br>
 There is a method to this madness, many secret sauces,<br>
@@ -39,7 +39,7 @@ Is this vigorously ending, or is it the end of the vigor?
 
 Maybe I need help, the emotions are starting to yelp,<br>
 The body stays frozen, but the tears are starting to melt.<br>
-Definitely drowning, no sun in my forest of kelp,<br>
+Definitely drowning, no sun in my ocean of kelp,<br>
 Row me, row me away, Save me from myself!
 </div>
 
@@ -70,3 +70,5 @@ I don't have all the answers yet. But I know I will figure it out - I have to. A
 {: .mt-4}
 
 *Composed on July 19, 2024 - in the aftermath of anxiety, in the search for something that feels like solid ground.*
+
+*Minor edits made August 18, 2025 - based on feedback to strengthen technical execution while preserving authentic voice.*

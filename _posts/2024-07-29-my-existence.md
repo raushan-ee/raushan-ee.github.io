@@ -18,13 +18,13 @@ image:
 
 <div class="poem" markdown="1" align="center">
 The walls of my memory and existence, have been painted over and over,<br>
-The colors you see today, are not the first I owned,<br>
+The colors you see today, are not the first I owned.<br>
 The texture then was chalky not smooth, with limestone all over,<br>
-What you see today is a facade, my clothes rented, my expressions – loaned.
+My present mirrors your thoughts, my clothes rented, my expressions – loaned.
 
 But every now and then, when a nail is driven into these walls,<br>
 An intent to hang a decree, or an accomplishment on display,<br>
-The facade chips off, and the inside is revealed (outside crawls),<br>
+The colors from within leak, when facaded chip falls,<br>
 Those memories peep out, see the light of the day.
 
 Then eventually, a certificate hangs on it, and the chips are plastered,<br>
@@ -32,17 +32,17 @@ Little if not none, can be driven by the soul,<br>
 And unless a balance of ambition and devotion is mastered,<br>
 There may never be enough, enough to fill the bowl.
 
-I'm not saying, that my entire existence is a facade,<br>
+This is not to think, that there's nothing to applaud,<br>
 Not everything is for appearance - insulated walls hollow within,<br>
 But please reckon, that a mortal's judgment can get flawed,<br>
-When comfort gets painted over and over, soul will struggle in efforts to be seen,
+When comfort gets painted over and over, soul will struggle in efforts to be seen.
 
 My failures have made me as much, as much as the successes if any,<br>
 But I too prefer to linger on the memories that comfort.<br>
 I too, have been discouraged by the failures of the many,<br>
 Into a habit of avoiding pain and the emotions unconquered.
 
-And, unless the layers are sanded, and uniformed for the makeover,<br>
+And, unless the layers are sanded, and smoothened for makeover,<br>
 The present will be driven to hide the guilts of the past,<br>
 Unless every once in a while, the conscience takes over,<br>
 It is hard to find sustenance, but who knows – maybe my existence will last.
@@ -73,3 +73,5 @@ The poem asks whether there's a practical way to "sand the layers" in real life 
 {: .mt-4}
 
 *Composed on July 29, 2024 - triggered by echoes of forgotten wisdom and memories of chalky walls that once felt like home.*
+
+*Minor edits made August 18, 2025 - based on feedback to trust the metaphor and reduce defensive explanations.*

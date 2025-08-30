@@ -1,6 +1,6 @@
 ---
 title: Chaos All Around
-description: A raw and honest poem born from anxiety and panic, exploring mental health struggles and the search for peace amidst chaos.
+description: A raw and honest poem born from anxiety and panic - written three hours after a particularly severe panic attack. The heaviness in my head, the circular thoughts, the search for peace that somehow led me deeper into chaos.
 author: Raushan
 date: 2024-07-19
 categories: [Poetry, Personal, Mental Health]

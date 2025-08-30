@@ -1,6 +1,6 @@
 ---
 title: When You Hit Rock Bottom....
-description: A reverse poem about finding hope in despair - read from top to bottom and bottom to top for contrasting perspectives.
+description: A reverse poem that transforms meaning based on reading direction. The same words tell two stories - one of despair when read normally, one of hope when read in reverse.
 author: Raushan
 date: 2025-05-19
 categories: [Poetry, Personal]

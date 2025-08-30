@@ -1,0 +1,5 @@
+<!-- Custom Schema markup for poetry blog -->
+{% unless page.layout == 'post' %}
+  {% include schema-website.html %}
+  {% include schema-author.html %}
+{% endunless %}

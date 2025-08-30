@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site.title }}",
+  "alternateName": "{{ site.tagline }}",
+  "description": "{{ site.description | strip_html | strip_newlines | truncate: 160 }}",
+  "url": "{{ site.url }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.social.name | default: site.title }}",
+    "alternateName": "{{ site.tagline }}",
+    "description": "{{ site.description | strip_html | strip_newlines | truncate: 160 }}",
+    "url": "{{ site.url }}"{% if site.social.email %},
+    "email": "{{ site.social.email }}"{% endif %}{% if site.avatar %},
+    "image": "{{ site.avatar | absolute_url }}"{% endif %}
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ site.social.name | default: site.title }}"
+  },
+  "inLanguage": "{{ site.lang | default: 'en' }}"{% if site.social_preview_image %},
+  "image": "{{ site.social_preview_image | absolute_url }}"{% endif %}
+}
+</script>

@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.social.name | default: site.title }}",
+  "alternateName": "{{ site.tagline }}",
+  "description": "{{ site.description | strip_html | strip_newlines | truncate: 160 }}",
+  "url": "{{ site.url }}",
+  "jobTitle": "Poet",
+  "knowsAbout": ["Poetry", "Creative Writing", "Mental Health", "Personal Development"],
+  "knowsLanguage": ["English", "Hindi", "Urdu"]{% if site.social.email %},
+  "email": "{{ site.social.email }}"{% endif %}{% if site.avatar %},
+  "image": "{{ site.avatar | absolute_url }}"{% endif %}{% if site.social.links %},
+  "sameAs": {{ site.social.links | jsonify }}{% endif %}
+}
+</script>

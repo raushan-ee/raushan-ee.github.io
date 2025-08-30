@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "{{ page.title }}",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description | strip_html | strip_newlines | truncate: 160 }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.social.name | default: site.title }}",
+    "alternateName": "{{ site.tagline }}",
+    "url": "{{ site.url }}"
+  },
+  "genre": "Poetry",
+  "about": {{ page.categories | jsonify }},
+  "keywords": "{{ page.tags | join: ', ' }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.last_modified_at %}
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+  {% endif %}
+  "inLanguage": "{{ site.lang | default: 'en' }}",
+  "url": "{{ page.url | absolute_url }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ site.social.name | default: site.title }}",
+    "url": "{{ site.url }}"
+  }{% if page.image %},
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.image.path | absolute_url }}",
+    "description": "{{ page.image.alt | default: page.title }}"
+  }{% endif %}
+}
+</script>

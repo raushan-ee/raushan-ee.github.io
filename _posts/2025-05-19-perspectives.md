@@ -10,7 +10,6 @@ math: false
 mermaid: false
 image:
   path: /assets/img/blog/2025-05-19-crossroads.jpg
-  lqip: data:image/webp;base64,[Your base64 encoding]
   alt: A path dividing into two directions, symbolizing different perspectives.
 ---
 
